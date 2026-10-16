@@ -1,4 +1,6 @@
-# Beginner MATLAB Image Analysis
+# Lina Beginner MATLAB Image Analysis
+
+Improve version "sparkly"
 
 This repository is a small practice project for the *Modern Optronics
 Workflows* guest lectures at Hochschule Aalen.
